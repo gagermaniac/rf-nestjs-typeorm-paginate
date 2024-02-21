@@ -8,7 +8,7 @@
   "main": "./dist/index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/nestjsx/nestjs-typeorm-paginate"
+    "url": "https://github.com/gagermaniac/rf-nestjs-typeorm-paginate"
   },
   "description": "A simple pagination function to build a pagination object with types",
   "keywords": [
@@ -65,6 +65,6 @@
     },
     "coverageDirectory": "../coverage"
   },
-  "version": "4.0.4",
+  "version": "4.0.6",
   "dependencies": {}
 }
