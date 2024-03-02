@@ -367,3 +367,4 @@ return paginate<MyEntity>(this.repository, {
 ```
 
 This will result links like `http://example.com/something?current-page=1&page-size=3`.
+LFG
